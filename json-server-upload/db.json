@@ -1,0 +1,20 @@
+{
+  "bolos": [
+    {
+      "nome": "Bolo de cenoura",
+      "cobertura": "Margarina, Açúcar, Chocolate em pó solúvel, Leite",
+      "ingredientes": "Cenouras, Margarina, Ovos, Açúcar, Farinha de trigo, Fermento químico em pó",
+      "valor": "55",
+      "user_img": "1699381362195.png",
+      "id": 1
+    },
+    {
+      "nome": "Mel de abelha",
+      "valor": "1000000",
+      "ingredientes": "mel + mel +mel + abelhas",
+      "cobertura": "abelhas vivas",
+      "user_img": "1700323607630.jpg",
+      "id": 2
+    }
+  ]
+}
